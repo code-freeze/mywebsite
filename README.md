@@ -1,6 +1,5 @@
 # mywebsite
 \This is really awesome
 
-now editing on new beanch
 
-Updated locally, then updated in the website
+Update made on master on Github before rebase
